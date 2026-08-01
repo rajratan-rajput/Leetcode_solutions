@@ -106,9 +106,9 @@ This repository reflects my:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajratan-rajput&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rajratan-rajput&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajratan-rajput&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rajratan-rajput&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -132,15 +132,15 @@ This repository reflects my:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rajratanrajput/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-tau-five-38.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rraj30452@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
