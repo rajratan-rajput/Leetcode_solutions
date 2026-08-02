@@ -155,3 +155,23 @@ This repository reflects my:
 *"Every solved problem is one step closer to becoming a better Software Engineer."*
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
+## Math
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
+<!---LeetCode Topics End-->
