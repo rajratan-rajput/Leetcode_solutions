@@ -163,6 +163,7 @@ This repository reflects my:
 | ------- |
 | [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -186,4 +187,12 @@ This repository reflects my:
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
