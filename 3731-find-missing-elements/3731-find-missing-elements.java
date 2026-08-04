@@ -1,41 +1,30 @@
-import java.util.*;
+ 
 
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        List<Integer> list = new ArrayList<>();
+        List<Integer> ans = new ArrayList<>();
 
         if (nums == null || nums.length == 0) {
-            return list;
+            return ans;
         }
 
-        int mini = nums[0];
-        int maxi = nums[0];
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
 
-        for (int val : nums) {
-            mini = Math.min(mini, val);
-            maxi = Math.max(maxi, val);
+        HashSet<Integer> set = new HashSet<>();
+
+        for (int num : nums) {
+            min = Math.min(min, num);
+            max = Math.max(max, num);
+            set.add(num);
         }
 
-        Arrays.sort(nums);
-
-        int idx = 0;
-
-        for (int i = mini; i <= maxi; i++) {
-
-            // Skip all duplicates
-            while (idx < nums.length && nums[idx] < i) {
-                idx++;
-            }
-
-            if (idx < nums.length && nums[idx] == i) {
-                while (idx < nums.length && nums[idx] == i) {
-                    idx++;
-                }
-            } else {
-                list.add(i);
+        for (int i = min + 1; i < max; i++) {
+            if (!set.contains(i)) {
+                ans.add(i);
             }
         }
 
-        return list;
+        return ans;
     }
 }
