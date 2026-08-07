@@ -170,6 +170,7 @@ This repository reflects my:
 | [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,4 +213,20 @@ This repository reflects my:
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
