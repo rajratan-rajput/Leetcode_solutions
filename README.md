@@ -164,6 +164,7 @@ This repository reflects my:
 | [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -199,10 +200,12 @@ This repository reflects my:
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
