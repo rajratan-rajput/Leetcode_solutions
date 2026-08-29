@@ -5,7 +5,7 @@ class Solution {
         for (int i = 0; i < nums.length; i++) numsSorted[i] = nums[i];
         Arrays.sort(numsSorted);
 
-        int currGroup = 0;
+        int currGroup = 1;
         HashMap<Integer, Integer> numToGroup = new HashMap<>();
         numToGroup.put(numsSorted[0], currGroup);
 
