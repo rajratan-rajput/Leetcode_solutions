@@ -9,7 +9,7 @@ class Solution {
         ListNode previous = head;
         ListNode current = head.next;
 
-        int position = 2;
+        int position = 1;
 
         while (current.next != null) {
 
