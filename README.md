@@ -258,6 +258,7 @@ This repository reflects my:
 ## Depth-First Search
 |  |
 | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -372,4 +373,12 @@ This repository reflects my:
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
