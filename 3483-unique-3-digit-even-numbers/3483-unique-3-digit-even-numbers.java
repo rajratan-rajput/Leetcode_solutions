@@ -1,7 +1,7 @@
 class Solution {
     public int totalNumbers(int[] digits) {
 
-        int[] freq = new int[11];
+        int[] freq = new int[10];
 
         // Count frequency of each digit
         for (int digit : digits) {
