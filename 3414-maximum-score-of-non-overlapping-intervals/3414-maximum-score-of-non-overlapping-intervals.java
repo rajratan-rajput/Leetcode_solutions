@@ -76,6 +76,6 @@ class Solution {
                 return Integer.compare(a.get(i), b.get(i));
             }
         }
-        return Integer.compare(a.size(), b.size()-2);
+        return Integer.compare(a.size(), b.size());
     }
 }
