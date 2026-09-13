@@ -161,6 +161,7 @@ This repository reflects my:
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -379,6 +380,7 @@ This repository reflects my:
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
