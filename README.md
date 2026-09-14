@@ -190,6 +190,7 @@ This repository reflects my:
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -394,4 +395,8 @@ This repository reflects my:
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
