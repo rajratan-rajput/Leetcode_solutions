@@ -169,6 +169,7 @@ This repository reflects my:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -264,6 +265,7 @@ This repository reflects my:
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -312,6 +314,7 @@ This repository reflects my:
 | [1096-brace-expansion-ii](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/rajratan-rajput/Leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
